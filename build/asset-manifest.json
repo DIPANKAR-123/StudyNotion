@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7e78172.css",
+    "main.js": "/static/js/main.56b7463a.js",
+    "static/media/signup.png": "/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/index.html",
+    "main.d7e78172.css.map": "/static/css/main.d7e78172.css.map",
+    "main.56b7463a.js.map": "/static/js/main.56b7463a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e78172.css",
+    "static/js/main.56b7463a.js"
+  ]
+}
